@@ -1,0 +1,35 @@
+.container {
+	position: absolute;
+	width: 300px;
+	height: 250px;
+	background-color:#fff;
+	overflow: hidden;
+	border: black solid 1px;
+}
+
+#bk{
+	position: absolute;
+	top:0;
+	left: 0
+}
+
+#text01{
+	position: absolute;
+	top:0;
+	left: 0;
+	opacity: 0;
+}
+
+#text02{
+	position: absolute;
+	top:0;
+	left: 0;
+	opacity: 0;
+}
+
+#button{
+	position: absolute;
+	top:0;
+	left: 0;
+	opacity: 0;
+}
